@@ -167,9 +167,8 @@ will add support for other platforms later when i have time.
 
 
 ## Recourses
-For anyone who's interested in this stuff here is some recourses that i found <br>
-helpfull.
-
+For anyone who's interested in this stuff here is some recourses that i found helpfull:
+<br>
 
 
 * For learning about different rasterization algorithms and their implementation
@@ -178,7 +177,7 @@ helpfull.
   https://www.digipen.edu/sites/default/files/public/docs/theses/salem-haykal-digipen-master-of-science-in-computer-science-thesis-an-optimized-triangle-rasterizer.pdf
 
 
-* There is also an series of articles by "scratch a pixel" website thats goes through 
+* There is also a series of articles in "scratch a pixel" website that goes through 
   implementing a software renderer/rasterizer from scratch 
   https://www.scratchapixel.com/lessons/3d-basic-rendering/rasterization-practical-implementation/overview-rasterization-algorithm.html
 
