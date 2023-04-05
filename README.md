@@ -166,8 +166,8 @@ will add support for other platforms later when i have time.
 
 
 
-## Recourses
-For anyone who's interested in this stuff here is some recourses that i found helpfull:
+## Resources
+For anyone who's interested in this stuff here is some resources that i found helpfull:
 <br>
 
 
